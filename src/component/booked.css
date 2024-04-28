@@ -1,12 +1,14 @@
-.forests-container {
+.forests {
     display: flex;
     flex-wrap: wrap;
     gap: 80px;
-    margin-left:  -400px;
+    margin-left:  30px;
     margin-top: 30px;
     margin-bottom: 30px;
   }
-  
+  .title{
+    margin-left: 520px;
+  }
   .forest-card {
     width: 300px; /* Adjust width as needed */
     border: 1px solid #ccc;
