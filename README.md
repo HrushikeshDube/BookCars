@@ -36,6 +36,4 @@ The project is organized into the following main components:
 - **AddCarForm**: Provides a form for car owners to add new cars.
 - **BookedCar**: Lists cars that have been booked by the user.
 
-## Contributing
 
-We welcome contributions from the community! Feel free to open issues or submit pull requests to improve the project.
